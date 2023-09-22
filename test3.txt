@@ -1,3 +1,0 @@
-check 3rd file
-This is midified by midification
-git add
